@@ -1,0 +1,8 @@
+# Ignore large sequencing and alignment files
+*.fastq
+*.sam
+*.bam
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
